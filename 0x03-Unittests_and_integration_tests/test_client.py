@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Module containing unit tests for client module"""
 from client import GithubOrgClient
 from fixtures import TEST_PAYLOAD
